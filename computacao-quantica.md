@@ -1,6 +1,6 @@
 ---
-title: Computação Quântica
-description: Conceitos de qubits, superposição e paralelismo na computação quântica
+Título: Computação Quântica
+Descrição: Conceitos de qubits, superposição e paralelismo na computação quântica
 ---
 
 # Computação Quântica

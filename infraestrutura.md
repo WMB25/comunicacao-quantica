@@ -1,6 +1,6 @@
 ---
-title: Infraestrutura Quântica
-description: Estrutura física e lógica dos computadores quânticos
+Título: Infraestrutura Quântica
+Descrição: Estrutura física e lógica dos computadores quânticos
 ---
 
 # Infraestrutura Quântica

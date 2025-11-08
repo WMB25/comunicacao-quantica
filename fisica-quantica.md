@@ -1,6 +1,6 @@
 ---
-title: Mecânica Quântica
-description: Fundamentos da mecânica quântica e seus principios fisicos
+Título: Mecânica Quântica
+Descrição: Fundamentos da mecânica quântica e seus principios fisicos
 ---
 
 # Mecanica Quântica: A Base de Tudo

@@ -1,6 +1,6 @@
 ---
-title: Comunicação Quântica
-description: Transmissão de dados segura e ultrarrápida baseada em mecânica quântica
+Título: Comunicação Quântica
+Descrição: Transmissão de dados segura e ultrarrápida baseada em mecânica quântica
 ---
 
 # Comunicação Quântica
