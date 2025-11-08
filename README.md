@@ -5,7 +5,7 @@ Descrição: Trabalho de física sobre Comunicação e Infraestrutura Quântica
 
 # Comunicação Quântica
 
-Bem-vindo ao meu repositorio educacional sobre **Infraestrutura e comunicação Quântica**.
+Bem-vindo ao nosso repositorio educacional sobre **Infraestrutura e comunicação Quântica**.
 Este site reúne conteúdos sobre os fundamentos da **mecânica quântica**, a **computação quântica**, a **infraestrutura necessária** e principalmente a **comunicação quântica**, o foco central deste trabalho.
 
 ---
