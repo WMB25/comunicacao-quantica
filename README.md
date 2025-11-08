@@ -1,6 +1,6 @@
 ---
-title: Comunicação Quântica
-description: Trabalho de física sobre Comunicação e Infraestrutura Quântica
+Título: Comunicação Quântica
+Descrição: Trabalho de física sobre Comunicação e Infraestrutura Quântica
 ---
 
 # Comunicação Quântica
