@@ -5,3 +5,7 @@
 3. *Uma introdução a Computação Quântica*. Disponível em: [https://ic.unicamp.br](https://ic.unicamp.br/~bit/arquivos/tg.pdf) 
 4. *Entenda como funciona um Computador Quântico!*. Disponível em: [https://www.datageeks.com.br](https://www.datageeks.com.br/computador-quantico/)
 5. *Computação quântica*. Disponível em: [https://pt.wikipedia.org](https://pt.wikipedia.org/wiki/Computação_quântica)
+
+---
+
+[🏠 Voltar à Página Inicial](index.md)

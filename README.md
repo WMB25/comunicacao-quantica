@@ -12,10 +12,10 @@ Este site reúne conteúdos sobre os fundamentos da **mecânica quântica**, a *
 
 ## Conteúdos
 
-- [Mecânica Quântica](fisica-quantica.md)
-- [Computação Quântica](computacao-quantica.md)
-- [Infroestrutura Quântica](infraestrutura.md)
-- [Comunicação Quântica (Tema Principal)](comunicacao.md)
+- [Mecânica Quântica](docs/fisica-quantica.md)
+- [Computação Quântica](docs/computacao-quantica.md)
+- [Infroestrutura Quântica](docs/infraestrutura.md)
+- [Comunicação Quântica (Tema Principal)](docs/comunicacao.md)
 
 ---
 
@@ -23,4 +23,4 @@ Este site reúne conteúdos sobre os fundamentos da **mecânica quântica**, a *
 
 ---
 *Desenvolvido por Nicolas Alexandre e Walison M.B. - Trabalho de Física*
-- [📖 Referências](referencias.md)
+- [📖 Referências](docs/referencias.md)
