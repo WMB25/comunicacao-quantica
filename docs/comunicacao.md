@@ -87,7 +87,7 @@ Usa fótons como portadores de qubits e combina QKD e teletransporte quântico p
 
 ---
 
-## Exemplo
+## [Exemplo](https://colab.research.google.com/drive/1tj4uZ0S4uNRUTMuHgqkkzM-iu4NC0TEK?usp=sharing)
 ```python
 
 import numpy as np
@@ -170,4 +170,4 @@ Com base nas leis da física, ela promete uma **internet verdadeiramente segura*
 
 ---
 
-[⬅️ Voltar à Infraestrutura Quântica](infraestrutura.md) | [🏠 Voltar à Página Inicial](index.md)
+[⬅️ Voltar à Infraestrutura Quântica](infraestrutura.md) | [🏠 Voltar à Página Inicial](../README.md)
